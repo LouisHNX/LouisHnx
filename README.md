@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Louis, i'm 20, I'm French 🇫🇷, I love blockchain and development. I have been practicing development since 2016. 
-In my spare time, I develop websites, applications, etc.
+### Hi there 👋 I'm Louis, i'm 20, I'm French, I love blockchain and development. I have been practicing development since 2016. 
+In my free time, I develop websites, applications, etc.
 To learn more about me, go to my <a href="https://louisgarrido.fr">website!</a>
 
 
